@@ -33,6 +33,9 @@ Images License: GNU General Public License v2 or later
 	background-color: #EFEFED;
 }
 
+.main-navigation ul li a, .site-title a, ul.menu li a, .site-branding h1 a, .site-footer .storefront-handheld-footer-bar a:not(.button), button.menu-toggle, button.menu-toggle:hover {
+	color: black;
+} */
 
 @media (min-width: 768px) {
 	.storefront-primary-navigation {
@@ -40,6 +43,10 @@ Images License: GNU General Public License v2 or later
 	}
 }
 
-.main-navigation ul li a, .site-title a, ul.menu li a, .site-branding h1 a, .site-footer .storefront-handheld-footer-bar a:not(.button), button.menu-toggle, button.menu-toggle:hover {
-	color: black;
-} */
+
+
+@media screen and (min-width: 768px) {
+	.site-header .site-branding, .site-header .site-logo-anchor, .site-header .site-logo-link, .site-header .custom-logo-link {
+		width: 40%; /* Adjust this percentage up or down to make the logo larger or smaller. */
+	}
+}
