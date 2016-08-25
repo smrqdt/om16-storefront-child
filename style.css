@@ -45,7 +45,7 @@ Images License: GNU General Public License v2 or later
 		color: #efefed;
 	}
 
-	.storefront-primary-navigation ul.menu li.widget_shopping_cart a{
+	.storefront-primary-navigation ul.menu li div.widget_shopping_cart a{
 		color: black;
 	}
 
