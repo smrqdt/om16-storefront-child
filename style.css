@@ -40,6 +40,8 @@ Images License: GNU General Public License v2 or later
 @media (min-width: 768px) {
 	.storefront-primary-navigation {
 		background-color: #1D2347;
+	}
+	.storefront-primary-navigation > a {
 		color: #efefed;
 	}
 }
