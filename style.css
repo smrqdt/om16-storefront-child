@@ -26,7 +26,6 @@ Images License: GNU General Public License v2 or later
 
 .site-header, .secondary-navigation ul ul, .main-navigation ul.menu > li.menu-item-has-children:after, .secondary-navigation ul.menu ul, .storefront-handheld-footer-bar, .storefront-handheld-footer-bar ul li > a, .storefront-handheld-footer-bar ul li.search .site-search, button.menu-toggle, button.menu-toggle:hover {
 	background-color: #EFEFED;
-	color: black;
 }
 
 .payment_method_stripe label img {
@@ -38,4 +37,8 @@ Images License: GNU General Public License v2 or later
 	.storefront-primary-navigation {
 		background-color: #1D2347;
 	}
+}
+
+.main-navigation ul li a, .site-title a, ul.menu li a, .site-branding h1 a, .site-footer .storefront-handheld-footer-bar a:not(.button), button.menu-toggle, button.menu-toggle:hover {
+	color: black;
 }
