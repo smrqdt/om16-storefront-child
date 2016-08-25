@@ -41,7 +41,7 @@ Images License: GNU General Public License v2 or later
 	.storefront-primary-navigation {
 		background-color: #1D2347;
 	}
-	.storefront-primary-navigation .main-navigation ul li a, .storefront-primary-navigation ul.menu li a, .storefront-primary-navigation ul.menu li div.widget_shopping_cart .button a{
+	.storefront-primary-navigation .main-navigation ul li a, .storefront-primary-navigation ul.menu li a, .storefront-primary-navigation ul.menu li div.widget_shopping_cart a.button {
 		color: #efefed;
 	}
 
