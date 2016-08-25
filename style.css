@@ -23,3 +23,14 @@ Images License: GNU General Public License v2 or later
  * Add your own custom css below this text.
  */
 
+
+.site-header, .secondary-navigation ul ul, .main-navigation ul.menu > li.menu-item-has-children:after, .secondary-navigation ul.menu ul, .storefront-handheld-footer-bar, .storefront-handheld-footer-bar ul li > a, .storefront-handheld-footer-bar ul li.search .site-search, button.menu-toggle, button.menu-toggle:hover {
+	background-color: #EFEFED;
+}
+
+.payment_method_stripe label img {
+	display: inline;
+	vertical-align: middle;
+}
+
+
