@@ -23,4 +23,6 @@ function sf_child_theme_dequeue_style() {
  * Note: DO NOT! alter or remove the code above this text and only add your custom PHP functions below this text.
  */
 
-
+// fix siteurl
+update_option( 'siteurl', 'https://omshop.smrqdt.de');
+update_option( 'home', 'https://omshop.smrqdt.de');
