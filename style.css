@@ -49,8 +49,10 @@ Images License: GNU General Public License v2 or later
 		color: black;
 	}
 
-	 .site-header ul.menu li.current-menu-item > a {
-	 	color: #c9c9c7;
+	.site-header ul.menu li.current-menu-item > a {
+		color: #efefed;
+		font-weight: 900;
+		text-decoration: underline;
 	 }
 
 }
