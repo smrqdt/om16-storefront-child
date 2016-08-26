@@ -45,10 +45,6 @@ Images License: GNU General Public License v2 or later
 		color: #efefed;
 	}
 
-	.woocommerce-breadcrumb, #reviews .commentlist li .comment_container {
-		background-color: #C96056;
-	}
-
 	.storefront-primary-navigation ul.menu li div.widget_shopping_cart a{
 		color: black;
 	}
@@ -63,6 +59,11 @@ Images License: GNU General Public License v2 or later
 
 @media screen and (min-width: 768px) {
 	.site-header .site-branding, .site-header .site-logo-anchor, .site-header .site-logo-link, .site-header .custom-logo-link {
-		/* width: 40%; /* Adjust this percentage up or down to make the logo larger or smaller. */
+		width: 31%; /* Adjust this percentage up or down to make the logo larger or smaller. */
 	}
+}
+
+
+.woocommerce-breadcrumb, #reviews .commentlist li .comment_container {
+	background-color: #C96056;
 }
