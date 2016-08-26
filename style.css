@@ -50,10 +50,13 @@ Images License: GNU General Public License v2 or later
 	}
 
 	.site-header ul.menu li.current-menu-item.menu-item > a {
-		color: #efefed;
 		font-weight: 900;
 		text-decoration: underline;
 	 }
+
+	.site-header ul.menu li.current-menu-item > a {
+		color: #efefed;
+	}
 
 }
 
