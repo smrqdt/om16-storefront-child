@@ -45,11 +45,15 @@ Images License: GNU General Public License v2 or later
 		color: #efefed;
 	}
 
+	.woocommerce-breadcrumb, #reviews .commentlist li .comment_container {
+		background-color: #C96056;
+	}
+
 	.storefront-primary-navigation ul.menu li div.widget_shopping_cart a{
 		color: black;
 	}
 
-	.site-header ul.menu li.current-menu-item > a {
+	.site-header ul.menu li.current-menu-item.menu-item > a {
 		color: #efefed;
 		font-weight: 900;
 		text-decoration: underline;
