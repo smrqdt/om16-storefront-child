@@ -71,6 +71,6 @@ Images License: GNU General Public License v2 or later
 	display: none;
 }
 
-input:disabled {
+button[disabled], html input[disabled] {
 	cursor: not-allowed; 
 }
