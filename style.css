@@ -70,3 +70,7 @@ Images License: GNU General Public License v2 or later
 .woocommerce-cart .cross-sells .small-business-info {
 	display: none;
 }
+
+input:disabled {
+	cursor: not-allowed; 
+}
