@@ -53,7 +53,8 @@ Images License: GNU General Public License v2 or later
 		font-weight: 900;
 	 }
 
-	.site-header ul.menu li.current-menu-item > a {
+	.site-header .primary-navigation ul.menu li.current-menu-item > a {
+		color: efefed;
 	}
 
 	.site-header .site-branding, .site-header .site-logo-anchor, .site-header .site-logo-link, .site-header .custom-logo-link {
