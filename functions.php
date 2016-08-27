@@ -23,3 +23,5 @@ function sf_child_theme_dequeue_style() {
  * Note: DO NOT! alter or remove the code above this text and only add your custom PHP functions below this text.
  */
 
+// Enable shortcodes in text widgets
+add_filter('widget_text','do_shortcode');
