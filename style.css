@@ -67,3 +67,7 @@ Images License: GNU General Public License v2 or later
 .woocommerce-breadcrumb, #reviews .commentlist li .comment_container {
 	background-color: #C96056;
 }
+
+.woocommerce-cart .cross-sells .small-business-info {
+	display: none;
+}
