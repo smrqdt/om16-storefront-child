@@ -58,11 +58,8 @@ Images License: GNU General Public License v2 or later
 		color: #efefed;
 	}
 
-}
-
-@media screen and (min-width: 768px) {
 	.site-header .site-branding, .site-header .site-logo-anchor, .site-header .site-logo-link, .site-header .custom-logo-link {
-		width: 100%; /* Adjust this percentage up or down to make the logo larger or smaller. */
+		/*width: 100%; /* Adjust this percentage up or down to make the logo larger or smaller. */
 	}
 }
 
