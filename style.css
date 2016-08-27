@@ -67,7 +67,7 @@ Images License: GNU General Public License v2 or later
 	background-color: #C96056;
 }
 
-.woocommerce-cart .cross-sells .small-business-info {
+.product p.wc-gzd-additional-info {
 	display: none;
 }
 
